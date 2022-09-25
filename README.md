@@ -4,6 +4,7 @@ Project inspired on the Lamps found in the cantina in the Book of Boba Fett seri
 
 Uses a ESP32 running the WLED library to control rings of 144 LEDs/m neopixel strips for the lighting effects.  
 
+![image](https://user-images.githubusercontent.com/72894587/192159457-5c4e51c7-ec8e-4e27-ba0a-e5fa410e44ae.png)
 
 
 USB charger Slim
