@@ -25,6 +25,11 @@ https://www.tme.com/ca/en/details/eps-25-5/open-frame-power-supplies/mean-well/
 LEDs
 https://www.ebay.ca/itm/255390666235?var=555357392055
 
+Requires misc 3mm hex screws and 3mm heat set inserts.  
+Utilizes 3D printed threaded parts for the top and bottom connections.  Two versions of the middle ring is included, with and without openings for the USB charger and XT30 connector for the charger if the desire is to just make the lamp.  Rings can be omitted to reduce the height.  The bottom and middle rings are bolted together with 3mm hardware and threaded inserts.
+
+The main 'grill' is printed in 6 pieces and glued together.  Two versions of the files are included, with supports and without to add your own if desired.
+
 ESP32 running WLED library for controlling LEDs!
 
 Reference Image
